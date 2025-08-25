@@ -4,5 +4,4 @@ requests
 geopy
 polyline
 whisper
-subprocess
 spacy
