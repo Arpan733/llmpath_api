@@ -5,7 +5,7 @@ import os
 import subprocess
 
 # Load model once at startup to avoid reloading for each request
-model = whisper.load_model("small")
+model = whisper.load_model("base")
 
 def convert_speech_to_text(audio_file):
     """
