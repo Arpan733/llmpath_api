@@ -4,6 +4,5 @@ requests
 geopy
 polyline
 whisper
-tempfile
 subprocess
 spacy
