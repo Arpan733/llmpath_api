@@ -1,0 +1,9 @@
+flask
+flask_cors
+requests
+geocode_location
+polyline
+whisper
+tempfile
+subprocess
+spacy
